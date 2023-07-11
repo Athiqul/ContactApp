@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactPage</string>
+    <string name="name">Name</string>
+    <string name="query_type">Query Type</string>
+    <string name="describe">Describe</string>
+    <string name="email">Email</string>
+    <string name="mobile">Mobile</string>
+    <string name="button">Submit</string>
+</resources>
